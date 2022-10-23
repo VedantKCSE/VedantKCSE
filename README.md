@@ -27,6 +27,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Power of your Student Email ID | Free Stuff, Offers and Crazy Deals for Students](https://vedant-cse.medium.com/the-power-of-your-student-email-id-free-stuff-offers-and-crazy-deals-for-students-d8997259f147?source=rss-8dc3483d6afc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
