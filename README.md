@@ -49,7 +49,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantkcse&" alt="vedantkcse" /></p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VedantKCSE&icon=2&color=7)](https://visitcount.itsvg.in)
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 <!---
