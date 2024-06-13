@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/tvedantk3" target="blank"><img src="https://img.shields.io/twitter/follow/tvedantk3?logo=twitter&style=for-the-badge" alt="tvedantk3" /></a> </p>
 
-- 🔭 I’m currently working on [The Tech Village Site](https://github.com/The-Tech-Village/The-Tech-Village.github.io)
+- 🔭 I’m currently working on Something for <img src="https://wakatime.com/badge/user/4e9dd7ee-1c24-412c-8320-6b4f65cfa4dd/project/566c583b-bf0d-4618-ac1d-802de1d0fc47.svg" alt="vedantkcse" />
 
 - 🌱 I’m currently learning **Full Stack, DevOps, Pen-testing, Networking**
 
